@@ -16,5 +16,4 @@ Comprehensive SQL analysis of a retail database uncovering sales trends, invento
 - **Analysis**: Trend Identification, Root Cause Analysis
 - **Tools**: SQLite, DB Browser, Data Visualization
 
-## Key SQL Queries & Findings
 
